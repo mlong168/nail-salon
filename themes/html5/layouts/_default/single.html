@@ -1,0 +1,7 @@
+{{ define "main" }}
+		<main class="single">
+			<article>
+{{ partial "article" (dict "article" . "mode" "full") }}
+			</article>
+		</main>
+{{ end }}
