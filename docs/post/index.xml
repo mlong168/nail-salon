@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Agency</title>
+    <title>Posts on Creative portfolio</title>
     <link>https://mlong168.github.io/nail-salon/post/index.xml</link>
-    <description>Recent content in Posts on Agency</description>
+    <description>Recent content in Posts on Creative portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;copy;2016 Your name or company</copyright>
     <lastBuildDate>Fri, 24 Feb 2017 22:16:25 -0600</lastBuildDate>
     <atom:link href="https://mlong168.github.io/nail-salon/post/index.xml" rel="self" type="application/rss+xml" />
     
